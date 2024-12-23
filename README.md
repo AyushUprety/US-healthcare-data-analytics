@@ -157,5 +157,5 @@ This project underscores the importance of leveraging data analytics in the heal
 
 ### Connect With Me
 
-**[![LinkedIn](www.linkedin.com/in/ayushuprety)**
+**[![LinkedIn](www.linkedin.com/in/ayushuprety)]**
 
