@@ -56,21 +56,21 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 | Executive Summary | Hospital Insights |
 |-------------|-------------|
-| ![executive_summary](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/14917b4e-fc60-4bfd-840c-66ad4057e914) | ![hospital_insights](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/da6fc0a8-00f1-411e-8c8e-53f8261a38fd) |
+| ![executive_summary](https://github.com/AyushUprety/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/14917b4e-fc60-4bfd-840c-66ad4057e914) | ![hospital_insights](https://github.com/AyushUprety/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/da6fc0a8-00f1-411e-8c8e-53f8261a38fd) |
 | This section provides a concise yet comprehensive summary of key insights and findings derived from the analysis of the U.S. healthcare industry for the years 2019-2020. | Explore comprehensive analyses of hospital performance, including metrics on patient admissions, discharge rates, and overall hospital efficiency. Gain strategic perspectives for healthcare administrators.|
 
 ---
 
 | Patient Outcome Analysis | Healthcare Provider Metrics |
 |-------------|-------------|
-| ![patient_outcome_analysis](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/5eb0795a-fc88-4030-93e4-3953e73c413d) | ![healthcare_provider_metrics](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/a33604b8-5619-4d07-a451-8c51aa73bd93) |
+| ![patient_outcome_analysis](https://github.com/AyushUprety/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/5eb0795a-fc88-4030-93e4-3953e73c413d) | ![healthcare_provider_metrics](https://github.com/AyushUprety/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/a33604b8-5619-4d07-a451-8c51aa73bd93) |
 | Examination of patient-related data and outcomes: This image presents an exploration of patient-related data, revealing actionable insights for improved patient care. Topics include patient demographics, treatment efficacy, and potential areas for enhanced medical interventions. | In-depth analysis and metrics for payer-provider relationships: This image showcases detailed metrics and analyses related to the relationships between healthcare providers and payers, offering insights crucial for optimizing the healthcare provider landscape. |
 
 ---
 
 | Monthly Expenses Trends | 
 |--------------------------|
-| ![monthly_expenses_trends](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/7158dcb3-380e-4e14-878d-5de19d56c916) | 
+| ![monthly_expenses_trends](https://github.com/AyushUprety/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/7158dcb3-380e-4e14-878d-5de19d56c916) | 
 | **Monthly Expenses Trends:** Visual representation of monthly aggregated expenses, offering financial insights to guide resource allocation. This analysis includes a breakdown of expenses, highlighting trends, and areas for potential cost savings. | 
 
 ---
@@ -78,7 +78,7 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 ### ER Diagram
 
-![er_diagram](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/6e59ff1f-a12e-4ab3-a480-05a29eac3d69)
+![er_diagram](https://github.com/AyushUprety/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/6e59ff1f-a12e-4ab3-a480-05a29eac3d69)
 
 **Healthcare ERD:** Entity Relationship Diagram illustrating data structure and relationships. Gain a deeper understanding of the underlying data architecture through the ERD. This visual representation showcases the relationships within the healthcare analytics project.
 
@@ -86,7 +86,7 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 ## Full Report
 
-For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dynamics Insights Report](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/docs/project_synopsis.docx).
+For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dynamics Insights Report](https://github.com/AyushUprety/US-Healthcare-Analytics-PowerBI-Insights/blob/main/docs/project_synopsis.docx).
 
 
 <p align="left">
@@ -101,7 +101,7 @@ For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dy
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights.git
+   git clone https://github.com/AyushUprety/US-Healthcare-Analytics-PowerBI-Insights.git
    ```
 
 2. **Open the Power BI file:**
@@ -121,7 +121,7 @@ Find issues, suggest enhancements, or contribute to the project by opening an [i
 ---
 
 
-[![License](https://img.shields.io/badge/License-MIT-silver)](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-silver)](https://github.com/AyushUprety/US-Healthcare-Analytics-PowerBI-Insights/blob/main/LICENSE)
 
 This PowerBI-driven initiative is licensed under the [MIT License](LICENSE), focusing on providing comprehensive insights into the U.S. healthcare industry from 2019 to 2020. The meticulously designed reports and visualizations offer strategic intelligence for stakeholders in the healthcare landscape.
 
