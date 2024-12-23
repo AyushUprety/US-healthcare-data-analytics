@@ -157,5 +157,5 @@ This project underscores the importance of leveraging data analytics in the heal
 
 ### Connect With Me
 
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
+**[![LinkedIn](www.linkedin.com/in/ayushuprety)**
 
