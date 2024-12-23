@@ -70,7 +70,7 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 | Monthly Expenses Trends | 
 |--------------------------|
-| ![monthly_expenses_trends] | 
+| ![monthly_expenses_trends] (https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/7158dcb3-380e-4e14-878d-5de19d56c916)| 
 | **Monthly Expenses Trends:** Visual representation of monthly aggregated expenses, offering financial insights to guide resource allocation. This analysis includes a breakdown of expenses, highlighting trends, and areas for potential cost savings. | 
 
 ---
